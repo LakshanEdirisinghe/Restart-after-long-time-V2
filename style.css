@@ -45,6 +45,14 @@ h1 {
   left: 623px;
 }
 
+.v2{
+  width: 320px;
+  height: 240px;
+  position: absolute;
+  top: 396px;
+  left: 623px;
+}
+
 @media (max-width: 600px){
 
 body {
