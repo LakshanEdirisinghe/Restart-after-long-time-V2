@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=My+Soul&family=Permanent+Marker&display=swap');
+
+
+h1 {
+
+  background-color: #FFF287;
+  color: #C83F12;
+  padding-top: 14px;
+  margin-right: 800px;
+  padding-left: 15px;
+  padding-bottom: 15px;
+  border: 5px solid #ff00bf;
+
+  /*font-family: "My Soul", cursive;*/
+    font-family: "Permanent Marker", cursive;
+}
+
+.box1{
+
+	background-color: #1B3C53;
+	width: 300px;
+	height: 300px;
+
+	position: fixed;
+
+}
+
+.box2{
+
+	background-color: #03A6A1;
+	width: 150px;
+	height: 150px;
+
+	position: relative;
+	top: -220px;
+	left: 458px;
+
+}
+
+.v1{
+  width: 320px;
+  height: 240px;
+  position: absolute;
+  top: 684px;
+  left: 623px;
+}
+
+@media (max-width: 600px){
+
+body {
+
+	background-color: #555879;
+}
+}
+
+@media (min-width: 600px){
+
+body {
+
+	background-color: #CFFFE2;
+}
+}
